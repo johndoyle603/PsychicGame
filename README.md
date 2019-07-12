@@ -1,2 +1,2 @@
 # PsychicGame
-Psychic game!
+A simple guessing game that I created using javascript. Those who dare to take on the computer try to guess the letter it thought of. Those who dare take this challenge are allowed nine tries before he or she either wins or loses. The game resets itself while tracking wins and losses. If I'm being completely honest here, this game isn't all that fun, but it is interactive to implement and practice the skills I'm learning from the cool cats at the UNH Coding Bootcamp.
