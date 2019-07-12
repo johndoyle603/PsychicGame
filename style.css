@@ -1,0 +1,39 @@
+body {
+    margin: 20px;
+    background-image: url(kings.jpg);
+    background-size: 100%;
+}
+
+header {
+    color: gold;
+    background-color: purple;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 20px;
+    font-weight: bold;
+    position: center;
+}
+
+.gameitself {
+    margin: 10px;
+    color: purple;
+    padding: 10px;
+    line-height: 77px;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+.stats {
+    margin: 10px;
+    padding: 10px;
+    line-height: 77px;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: rgb(243, 208, 7);
+}
